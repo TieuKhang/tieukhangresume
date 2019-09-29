@@ -1,0 +1,40 @@
+#titlebackground{
+	border-top:1px #CCCCCc solid; 
+	background-color:#bb1919;
+	width:100%;
+	height:70px;
+}
+.title{
+	color:white;
+	position:relative;
+	left:500px;
+}
+#aca{
+	float:left;
+}
+#intro{
+	color:gray;
+	position:relative;
+	left:50px;
+}
+#major{
+	color:red;
+	position:relative;
+	left:50px;
+}
+#cert{
+    position:relative;
+	left:50px;
+}
+#sport{
+	float:middle;
+	position:relative;
+	top:15px;
+	left:40px;
+}
+#programming{
+	float:right;
+	position: relative;
+	left:-100px;
+	top:-380px;
+}
