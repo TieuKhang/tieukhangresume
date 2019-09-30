@@ -10,7 +10,7 @@
 	left:500px;
 }
 #aca{
-	float:left;
+	position:relative;
 }
 #intro{
 	color:gray;
@@ -27,14 +27,8 @@
 	left:50px;
 }
 #sport{
-	float:middle;
 	position:relative;
-	top:15px;
-	left:40px;
 }
 #programming{
-	float:right;
 	position: relative;
-	left:-100px;
-	top:-380px;
 }
